@@ -5,4 +5,4 @@ l = map(float, sys.argv[1:])
 
 media = sum(l)/len(l)
 
-print media
+print(media)

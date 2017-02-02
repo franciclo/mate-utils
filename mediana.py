@@ -12,4 +12,4 @@ if len(l) % 2 == 0:
 else:
     mediana =l[len(l)/2]
 
-print 'mediana:',mediana
+print(mediana)

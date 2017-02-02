@@ -15,4 +15,4 @@ for i in l:
     if apariciones == repeticiones and i not in modas:
         modas.append(i)
 
-print modas
+print(modas)
